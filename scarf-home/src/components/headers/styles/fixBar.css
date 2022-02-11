@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+
+.toolbar {
+  background-color: #c09984;
+}
+
+.titleFont {
+  font-family: "Lobster", "Mochiy Pop P One" !important;
+  color: #524f4a;
+}
+
+.icons {
+  color: #cbc3ba;
+}

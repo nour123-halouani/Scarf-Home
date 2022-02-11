@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+  height: 0.5px;
+  background: #CBC3BA;
+}
+::-webkit-scrollbar-thumb {
+  background: #c09984;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+
+.buttonAlign {
+  text-align: right;
+}
+
+.detailsButton {
+  font-family: "Lobster", "Mochiy Pop P One" !important;
+  background-color: #c09984 !important;
+  color: #fff !important;
+  text-transform: capitalize !important;
+}
+
+.paragraph {
+  font-family: "Montserrat" !important;
+  margin-bottom: 5px !important;
+}
+
+.titleSetion {
+  font-family: "Lobster", "Mochiy Pop P One" !important;
+  color: #524f4a !important;
+  margin-bottom: 10px !important;
+  text-align: center !important;
+  margin-top: 30px !important;
+}
+
+.paragraphItems {
+  color: #c09984 !important;
+}
+
+.listItem {
+  margin-bottom: -15px;
+  margin-left: -30px !important;
+}
+
+.serviceDescription {
+  font-family: "Montserrat" !important;
+  margin-bottom: 20px !important;
+  text-align: center;
+}
+
+.serviceIcons {
+  color: #c09984 !important;
+}
+
+.label {
+  margin-bottom: 5px !important;
+  font-family: "Montserrat" !important;
+
+}

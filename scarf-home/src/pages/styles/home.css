@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+.dividerLabel {
+  color: #c09984;
+  font-family: "Great Vibes" !important;
+  font-size: 3rem !important;
+}
+
+.dividerHome {
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+
+@media screen and (max-width: 960px) {
+  .dividerLabel {
+    font-size: 2.5rem !important;
+  }
+}

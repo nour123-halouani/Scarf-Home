@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+
+.titles {
+  color: #c09984;
+  font-family: "Great Vibes" !important;
+  text-align: center !important;
+  margin-top: 50px !important ;
+  margin-bottom: 50px !important ;
+}
+
+.error {
+  text-align: center !important;
+  margin-top: 10px !important;
+  margin-bottom: 75px !important;
+  font-family: "Lobster", "Mochiy Pop P One" !important;
+}

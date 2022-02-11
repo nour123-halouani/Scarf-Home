@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap");
+
+.root {
+  margin-top: 20px !important;
+  padding-top: 20px !important;
+  background-color: #524f4a !important;
+  color: #fff !important;
+}
+
+.logo {
+  color: #c09984 !important;
+  font-size: 2rem !important;
+  font-family: "Great Vibes" !important;
+  text-align: center !important;
+}
+
+.iconColor {
+  color: #a4a998 !important;
+}
+
+.divider {
+  margin: 25px 80px 25px 80px !important;
+  background-color: #a4a998 !important;
+}
+
+.titleFooter {
+  color: #c09984 !important;
+  font-family: "Lobster", "Mochiy Pop P One" !important;
+  margin-bottom: 20px !important;
+}
+
+.dividerTwo {
+  margin: 15px 500px 15px 500px !important;
+  background-color: #a4a998 !important;
+}
+
+.copyrightLabel {
+  font-size: small !important;
+  text-align: center !important;
+  font-family: "Lobster" !important ;
+  padding-bottom: 20px !important;
+}
+
+.footerLinkItems {
+  text-decoration: none !important;
+  font-family: "Montserrat" !important;
+  color: #fff !important;
+  cursor: pointer !important;
+  margin-bottom: 10px !important;
+}
+
+.footerLinkItems:hover {
+  text-decoration: underline !important;
+}
+
+.footerTextItems {
+  font-family: "Montserrat" !important;
+  color: #fff !important;
+  margin-bottom: 10px !important;
+}
